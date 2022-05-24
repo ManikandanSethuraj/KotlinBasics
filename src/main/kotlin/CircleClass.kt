@@ -10,15 +10,8 @@ class CircleClass(
 ) : ShapeClass("Circle") {
     // The pi value can be taken from object
    // private val pi = 3.141592
-
-
-
-
     // The companion object is of singleton behaviour
     companion object{
-
-
-
         fun randomCircle() : CircleClass{
             val radius = Random.nextDouble(1.0,10.0)
             return CircleClass(radius)
