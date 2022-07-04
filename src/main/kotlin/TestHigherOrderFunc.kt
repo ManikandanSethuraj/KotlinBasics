@@ -1,0 +1,7 @@
+class TestHigherOrderFunc {
+
+ fun main(){
+     
+ }
+
+}

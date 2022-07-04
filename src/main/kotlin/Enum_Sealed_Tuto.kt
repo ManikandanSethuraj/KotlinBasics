@@ -1,12 +1,9 @@
 
-
-
 enum class Car(){
      BMW,
     AUDI,
     MERCEDES
 }
-
 
 
 sealed class SealedCar(){
